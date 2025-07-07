@@ -54,6 +54,12 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
+      "version": "~1.10601.0"
+    },
+    "framework-arduinoadafruitnrf52-1.7.0": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
       "version": "https://github.com/adafruit/Adafruit_nRF52_Arduino/archive/refs/tags/1.7.0.zip"
     },
     "framework-arduinonordicnrf5": {
